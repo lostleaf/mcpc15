@@ -1,4 +1,4 @@
-# CoolWildCats NU – ICPC 2015 Mid-Central Regional Solutions
+# CoolWildCats NU – ICPC 2015 Mid-Central Solutions
 
 This repository contains our team’s solutions to the **ACM-ICPC 2015 Mid-Central USA Regional Contest**.
 
