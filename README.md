@@ -4,5 +4,7 @@ This repository contains our team’s solutions to the **ACM-ICPC 2015 Mid-Centr
 
 Our team, **CoolWildCats**, represented **Northwestern University (NU)** and achieved **4th place overall** in the contest.
 
+![Photo of the Standings](mcpc15_standings_realtime.jpg)
+
 ---
 *Developed with passion and teamwork – CoolWildCats, ACM-ICPC 2015*
