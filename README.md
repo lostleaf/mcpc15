@@ -1,6 +1,8 @@
-# mcpc15
-Code for ACM-ICPC 2015 Mid-Central USA Regional Contest
+# CoolWildCats NU – ACM-ICPC 2015 Mid-Central Regional Solutions
 
-Our team got **Rank4** in this contest!
+This repository contains our team’s solutions to the **ACM-ICPC 2015 Mid-Central USA Regional Contest**.
 
-CHEERS!
+Our team, **CoolWildCats**, represented **Northwestern University (NU)** and achieved **4th place overall** in the contest.
+
+---
+*Developed with passion and teamwork – CoolWildCats, ACM-ICPC 2015*
